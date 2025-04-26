@@ -6,3 +6,4 @@ Author :Mani
 2.chat screen code
 3.Last seen code
 4.Attachemtns(Image, audio, Video)Code
+5.Hiding the last seen
