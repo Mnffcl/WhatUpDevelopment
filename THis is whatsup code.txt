@@ -5,7 +5,7 @@ Author :Mani
 1.Profile page code
 2.chat screen code
 3.Last seen code
-4.Attachemtns(Image, audio, Video)Code
+4.Attachemtns(Image, audio, Video, Documents)Code
 5.Hiding the last seen
 
 adding the audio call feature
@@ -15,3 +15,5 @@ adding the video call feature
 adding the audio call feature 1
 
 adding the video call feature 1
+
+
